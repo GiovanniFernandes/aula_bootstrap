@@ -1,0 +1,41 @@
+body {
+    font: 20px Arial sans-serif;
+}
+
+.logo-site {
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+}
+
+.navbar {
+    background-color: rgb(100, 147, 235);
+}
+
+.quem-somos {
+    background-color: rgb(216, 170, 102);
+    padding: 15px;
+    color: brown;
+}
+
+.margin-top {
+    margin-top: 35px;
+}
+
+.parceiros {
+    background-color: antiquewhite;
+    padding: 15px;
+    color: black;
+}
+
+.servicos {
+    background-color: rgb(162, 229, 250);
+    padding: 15px;
+    color: green;
+}
+
+footer {
+    background-color: black;
+    color: azure;
+    padding: 15px;
+}
